@@ -34,6 +34,7 @@ The accuracy given by Random Forest model was then tuned by a GridSearchCV metho
 
 
 
+
 Model | Accuracy
 ------------ | ------------- 
 Random Forest | 0.84
