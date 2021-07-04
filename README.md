@@ -12,7 +12,7 @@ In this study the exploratory analysis (EDA) with visualizations of the Titanic'
 
 ### Recap
 
-In this approach we have focused in particular on the survivors of the Titanic's tragedy. After examination if our data set has any missing values and checking the features within it and their data types, we begin with the EDA analysis. The bar charts of selected categorical features showed as follow:
+In this approach we have focused in particular on the survivors of the Titanic's tragedy. After examination if our data set has any missing values and checking the features within it and it data types, we begin with the EDA analysis. The bar charts of selected categorical features showed as follow:
 
 - The 1st class more likely survived than other classes and 3rd class more likely dead than other classes;
 - The female more likely survived than male;
