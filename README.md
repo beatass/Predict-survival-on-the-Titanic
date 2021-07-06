@@ -4,7 +4,7 @@ We are going to apply the tools of machine learning to predict which passengers 
 
 ## Motivation
 
-In this study the exploratory analysis (EDA) with visualizations of the Titanic's cruise passengers dataset as well as a different ML algorithms, such as Logistic Regression, KNN, Naive Bayes, SVM, Decision Tree and Random Forest have been performed to make a relevant predictions.
+In this study the exploratory analysis (EDA) with visualizations of the Titanic's cruise passengers dataset as well as a different ML algorithms, such as XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest have been performed to make a relevant predictions.
 
 #### The project is created with Python libraries:
 
