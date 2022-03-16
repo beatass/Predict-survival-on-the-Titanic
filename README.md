@@ -4,7 +4,7 @@ We are going to apply the tools of machine learning to predict which passengers 
 
 ## Motivation
 
-In this study the exploratory data analysis (EDA) with visualizations of the Titanic's cruise passengers dataset as well as a different ML algorithms, such as XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest have been performed to make a relevant predictions.
+In this study the exploratory data analysis (EDA) with visualizations of the Titanic's cruise passengers dataset as well as **different ML algorithms**, such as **XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest** have been performed to make a relevant predictions.
 
 #### The project is created with Python libraries:
 
@@ -12,7 +12,7 @@ In this study the exploratory data analysis (EDA) with visualizations of the Tit
 
 ### Recap
 
-In this approach we have focused in particular on the survivors of the Titanic's tragedy. After examination if our dataset has any missing values and checking the features within it and it data types, we begin with the EDA analysis. 
+In this approach we have focused, in particular, on the survivors of the Titanic's tragedy. After examination if our dataset has any missing values and checking the features within it and it data types, we begin with the EDA analysis. 
 
 **The bar charts of selected categorical features showed as follow**:
 
