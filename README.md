@@ -1,6 +1,6 @@
 # Prediction of the survivors on Titanic
 
-We are going to apply the tools of machine learning to predict which passengers survived the Titanic tragedy.
+ I am going to apply the tools of machine learning to predict which passengers survived the Titanic's tragedy.
 
 ## Motivation
 
@@ -12,7 +12,7 @@ In this study the exploratory data analysis (EDA) with visualizations of the Tit
 
 ### Recap
 
-In this approach we have focused, in particular, on the survivors of the Titanic's tragedy. After examination if our dataset has any missing values and checking the features within it and it data types, we begin with the EDA analysis. 
+In this approach I have focused, in particular, on the survivors of the Titanic's tragedy. After examination if the dataset has any missing values and checking the features within it and it data types, I begin with the EDA analysis. 
 
 **The bar charts of selected categorical features showed as follow**:
 
@@ -30,7 +30,7 @@ In this approach we have focused, in particular, on the survivors of the Titanic
 
 Additionally one can see that the violin plots do not contribute any additional information about the data as everything is clear from the box plot alone.
 
-Finally we have apllied the ML models to make a predictions who survived the Titanic's tragedy. Our analysis showed that **the best prediction** is given by **Random Forest model** with accuracy score equal to **84 %** while **the poorest one** is given by **KNN model** with the accuracy score equal to **75 %**.
+Finally I have apllied the ML models to make a predictions who survived the Titanic's tragedy. My analysis showed that **the best prediction** is given by **Random Forest model** with accuracy score equal to **84 %** while **the poorest one** is given by **KNN model** with the accuracy score equal to **75 %**.
 
 The accuracy given by **Random Forest model was then tuned by a GridSearchCV method**, reaching the accuracy equal to **86% on train data** while for **test data it was equal to 81 %**.
 
