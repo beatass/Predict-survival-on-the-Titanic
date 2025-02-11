@@ -16,19 +16,19 @@ In this approach I have focused, in particular, on the survivors of the Titanic'
 
 **The bar charts of selected categorical features showed as follow**:
 
-- *The 1st class more likely survived than other classes and 3rd class more likely dead than other classes*;
-- *The female more likely survived than male*;
-- *A person who travelled with 1 or 2 siblings or spouse more likely survived than a person who travelled with 3 or 4 siblings or spouse*;
-- *A person who travelled with more than 1 parents or children more likely survived than other persons*.
+- The 1st class more likely survived than other classes and 3rd class more likely dead than other classes;
+- The female more likely survived than male;
+- A person who travelled with 1 or 2 siblings or spouse more likely survived than a person who travelled with 3 or 4 siblings or spouse;
+- A person who travelled with more than 1 parents or children more likely survived than other persons.
 
 **While the box and violin plots analysis of selected categorical features showed as follow**:
 
-- *The age conditions the survival for Pclass passengers and has a direct impact on it*;
-- *Younger people tend to survive in 2nd and 3rd class*;
-- *A large number of passengers between 20 and 40 succumb in 2nd and 3rd class while in 1st class succumb a large number of passangers between 40 and 60*;
-- *The embarkation site affects the survival of particular persons, i.e. a person aboarded from C slightly more likely survived while a person aboarded from Q and S more likely dead*.
+- The age conditions the survival for Pclass passengers and has a direct impact on it;
+- Younger people tend to survive in 2nd and 3rd class;
+- A large number of passengers between 20 and 40 succumb in 2nd and 3rd class while in 1st class succumb a large number of passangers between 40 and 60;
+- The embarkation site affects the survival of particular persons, i.e. a person aboarded from C slightly more likely survived while a person aboarded from Q and S more likely dead.
 
-Additionally one can see that the violin plots do not contribute any additional information about the data as everything is clear from the box plot alone.
+Additionally one can see that the violin plots do not contribute any additional information about the data as everything is clear from the box plots alone.
 
 Finally I have apllied the ML models to make a predictions who survived the Titanic's tragedy. My analysis showed that **the best prediction** is given by **Random Forest model** with accuracy score equal to **84 %** while **the poorest one** is given by **KNN model** with the accuracy score equal to **75 %**.
 
