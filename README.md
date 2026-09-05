@@ -1,6 +1,6 @@
 # Prediction of the survivors on Titanic
 
- I am going to apply the tools of Machine Learning (ML) to predict which passengers survived the Titanic's tragedy.
+The project is aimed to give the prediction which passengers survived the Titanic's tragedy using the tools of Machine Learning (ML).
 
 ## Motivation
 
