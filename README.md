@@ -4,7 +4,7 @@ The project is aimed to give the prediction which passengers survived the **Tita
 
 ## Motivation
 
-In this study the exploratory data analysis (EDA) with visualizations of the Titanic's cruise passengers dataset as well as **different ML algorithms**, such as **XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest** have been performed to make a relevant predictions.
+In this study the **exploratory data analysis (EDA)** with visualizations of the Titanic's cruise passengers dataset as well as **different ML algorithms**, such as **XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest** have been performed to make a relevant predictions.
 
 #### The project is created with Python libraries:
 
