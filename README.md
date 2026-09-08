@@ -54,7 +54,7 @@ KNN | 0.75
 
 ## Files in this repository
 
-1. The titanic2_ML.ipynb file contains all the codes, plots and relevant descriptions of conducted analysis.
+1. The **titanic2_ML.ipynb** file contains all the codes, plots and relevant descriptions of conducted analysis.
 
 ## The dataset origin
 
