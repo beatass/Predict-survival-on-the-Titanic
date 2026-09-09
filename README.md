@@ -26,7 +26,7 @@ In this approach I have focused, in particular, on the survivors of the Titanic'
 - The age conditions the survival for Pclass passengers and has a direct impact on it;
 - Younger people tend to survive in 2nd and 3rd class;
 - A large number of passengers between 20 and 40 succumb in 2nd and 3rd class while in 1st class succumb a large number of passangers between 40 and 60;
-- The embarkation site affects the survival of particular persons, i.e. a person aboarded from C slightly more likely survived while a person aboarded from Q and S more likely dead.
+- The embarkation site affects the survival of particular persons, i.e. a person aboarded from C slightly more likely survived while a person aboarded from **Q** and **S** more likely dead.
 
 Additionally one can see that the violin plots do not contribute any additional information about the data as everything is clear from the box plots alone.
 
@@ -75,5 +75,5 @@ The dataset consists of the following features:
 - **Ticket** - The ticket number of the passenger;
 - **Fare** - How much the passenger paid for the ticker;
 - **Cabin** - Cabin number;
-- **Embarked** - Where the passenger boarded the Titanic Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+- **Embarked** - Where the passenger boarded the Titanic port of embarkation (**C = Cherbourg**, **Q = Queenstown**, **S = Southampton**).
 
