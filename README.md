@@ -23,10 +23,10 @@ In this approach I have focused, in particular, on the survivors of the Titanic'
 
 **While the box and violin plots analysis of selected categorical features showed as follow**:
 
-- The age conditions the survival for Pclass passengers and has a direct impact on it;
-- Younger people tend to survive in 2nd and 3rd class;
-- A large number of passengers between 20 and 40 succumb in 2nd and 3rd class while in 1st class succumb a large number of passangers between 40 and 60;
-- The embarkation site affects the survival of particular persons, i.e. a person aboarded from C slightly more likely survived while a person aboarded from **Q** and **S** more likely dead.
+- The age conditions the survival for **Pclass** passengers and has a direct impact on it;
+- Younger people tend to survive in **2nd** and **3rd** class;
+- A large number of passengers between **20 and 40** succumb in **2nd** and **3rd** class while in **1st** class succumb a large number of passangers between **40 and 60**;
+- The embarkation site affects the survival of particular persons, i.e. a person aboarded from **C** slightly more likely survived while a person aboarded from **Q** and **S** more likely dead.
 
 Additionally one can see that the violin plots do not contribute any additional information about the data as everything is clear from the box plots alone.
 
