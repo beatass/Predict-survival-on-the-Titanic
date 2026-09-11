@@ -16,10 +16,10 @@ In this approach I have focused, in particular, on the survivors of the Titanic'
 
 **The bar charts of selected categorical features showed as follow**:
 
-- The 1st class more likely survived than other classes and 3rd class more likely dead than other classes;
-- The female more likely survived than male;
-- A person who travelled with 1 or 2 siblings or spouse more likely survived than a person who travelled with 3 or 4 siblings or spouse;
-- A person who travelled with more than 1 parents or children more likely survived than other persons.
+- The **1st** class more likely survived than other classes and **3rd** class more likely dead than other classes;
+- The **female** more likely survived than **male**;
+- A person who travelled with **1 or 2 siblings or spouse** more likely survived than a person who travelled with **3 or 4 siblings or spouse**;
+- A person who travelled with more than **1 parents or children** more likely survived than **other persons**.
 
 **While the box and violin plots analysis of selected categorical features showed as follow**:
 
