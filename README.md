@@ -71,7 +71,7 @@ The dataset consists of the following features:
 - **Sex** - The gender of the passenger (male or female);
 - **Age** - The age of the passenger;
 - **SibSp** - number of siblings (brother, sister, stepbrother, stepsister) / spouses (husband, wife [mistresses and fiancés were ignored]) aboard the Titanic;
-- **Parch** - number of parents (mother, father) / children (daughter, son, stepdaughter, stepson) aboard the Titanic. Note: Some children travelled only with a nanny, therefore parch=0 for them;
+- **Parch** - number of parents (mother, father) / children (daughter, son, stepdaughter, stepson) aboard the Titanic. **Note**: Some children traveled only with a nanny, therefore parch=0 for them;
 - **Ticket** - The ticket number of the passenger;
 - **Fare** - How much the passenger paid for the ticker;
 - **Cabin** - Cabin number;
