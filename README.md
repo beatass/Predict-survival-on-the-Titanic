@@ -21,7 +21,7 @@ In this approach I have focused, in particular, on the survivors of the Titanic'
 - A person who travelled with **1 or 2 siblings or spouse** more likely survived than a person who travelled with **3 or 4 siblings or spouse**;
 - A person who travelled with more than **1 parents or children** more likely survived than **other persons**.
 
-**While the box and violin plots analysis of selected categorical features showed as follow**:
+**While the box and violin plots analysis of selected categorical features showed as follow**:  
 
 - The age conditions the survival for **Pclass** passengers and has a direct impact on it;
 - Younger people tend to survive in **2nd** and **3rd** class;
