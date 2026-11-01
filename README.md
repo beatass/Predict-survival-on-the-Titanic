@@ -2,7 +2,7 @@
 
 The project is aimed to give the prediction which passengers survived the **Titanic's tragedy** using the tools of **Machine Learning (ML)**.
 
-## Motivation
+## Motivation 
 
 In this study the **exploratory data analysis (EDA)** with visualizations of the Titanic's cruise passengers dataset as well as **different ML algorithms**, such as **XGBoost Classifier, Logistic Regression, KNN, Gaussian Naive Bayes, SVM, Decision Tree and Random Forest** have been performed to make a relevant predictions.
 
@@ -58,7 +58,7 @@ KNN | 0.75
 
 ## The dataset origin
 
-The dataset can be found at Kaggle (https://www.kaggle.com/c/titanic/data) and contains data about information on Titanic's cruise passengers.
+The **dataset** can be found at Kaggle (https://www.kaggle.com/c/titanic/data) and contains data about information on Titanic's cruise passengers.
 
 ## Relevant information
 
