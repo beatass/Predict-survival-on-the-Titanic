@@ -8,9 +8,9 @@ In this study the **exploratory data analysis (EDA)** with visualizations of the
 
 #### The project was created with Python libraries:  
 
- -  scikit-learn/pandas/numpy. 
+ -  scikit-learn/pandas/numpy.  
 
-### Recap
+### Recap 
 
 In this approach I have focused, in particular, on the survivors of the Titanic's tragedy. After examination if the dataset has any missing values and checking the features within it and their data types, I begin with the EDA analysis. 
 
